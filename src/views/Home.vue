@@ -115,29 +115,29 @@ h2{
     display: inline-block;
     margin: 7px;
     color: #171515;
-    opacity: 70%;
-    transition: all 0.5s ease-out;    
+    /* opacity: 70%; */
+    /* transition: all 0.5s ease-out;     */
 }
 .network-item-link{
    display: inline-block;
     margin: 7px;
     color:  #0e76a8;
-    opacity: 70%;
-    transition: all 1s ease-out;
+    /* opacity: 70%; */
+    /* transition: all 1s ease-out; */
 }
-.network-item-git:hover{
+/* .network-item-git:hover{
   display: inline-block;
     margin-right: 35px;
     color:  #dbdbdb;
-    /* transform:scale(2,2); */
+     transform:scale(2,2); 
     transition: all 1s ease-in;
-} 
-.network-item-link:hover{
+}  */
+/* .network-item-link:hover{
   display: inline-block;
     margin-left: 35px;
     color:  #dbdbdb;
-    /* transform:scale(2,2); */
+     transform:scale(2,2); 
     transition: all 1s ease-in;
-}
+} */
 
 </style>
