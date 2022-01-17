@@ -24,7 +24,7 @@
 
       <div class="social-network">
         <ul class="network-group">
-             <li class="network-item-git"><a href="https://github.com/adeline-huvet"><i class="fab fa-github fa-3x"> </i></a></li>
+             <li class="network-item-git"><a href="https://github.com/adeline-huvet"><i class="fab fa-github fa-3x"></i></a></li>
             <li class="network-item-link"><a href="https://www.linkedin.com/in/adeline-huvet-a0640b20a/?originalSubdomain=fr"><i class="fab fa-linkedin fa-3x"></i></a></li>
         </ul>
       </div>
