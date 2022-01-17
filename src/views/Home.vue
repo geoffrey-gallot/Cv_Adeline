@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <div class="main-container">
-        <h2>Adeline Huvet</h2>
+      <h2>Adeline Huvet</h2>
       <div class="title">
         <vue-typer class="text"
           :text="[
@@ -21,14 +21,23 @@
         ></vue-typer>
       
       </div>
-
+</div>
       <div class="social-network">
         <ul class="network-group">
-             <li class="network-item-git"><a href="https://github.com/adeline-huvet"><i class="fab fa-github fa-3x"></i></a></li>
-            <li class="network-item-link"><a href="https://www.linkedin.com/in/adeline-huvet-a0640b20a/?originalSubdomain=fr"><i class="fab fa-linkedin fa-3x"></i></a></li>
+          <li class="network-item-git">
+            <a href="https://github.com/adeline-huvet">
+              <i class="fab fa-github fa-3x"></i>
+            </a>
+          </li>
+          <li class="network-item-link">
+            <a href="https://www.linkedin.com/in/adeline-huvet-a0640b20a/?originalSubdomain=fr">
+              <i class="fab fa-linkedin fa-3x"></i>
+            </a>
+          </li>
         </ul>
       </div>
-    </div>
+
+    
   </div>
 </template>
 
