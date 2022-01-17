@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Cv_Adeline/precache-manifest.291e4e5af6248c69c187bde28e0fffa2.js"
+  "/Cv_Adeline/precache-manifest.7bc8aeb3207214833a2dfb40a63e53da.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "portefolio"});
