@@ -129,14 +129,14 @@ h2{
   display: inline-block;
     margin-right: 35px;
     color:  #dbdbdb;
-    transform:scale(2,2);
+    /* transform:scale(2,2); */
     transition: all 1s ease-in;
 } 
 .network-item-link:hover{
   display: inline-block;
     margin-left: 35px;
     color:  #dbdbdb;
-    transform:scale(2,2);
+    /* transform:scale(2,2); */
     transition: all 1s ease-in;
 }
 
