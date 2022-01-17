@@ -115,29 +115,27 @@ h2{
 }
 .network-item-git{
     margin: 7px;
+    margin-right: 15px;
     color: #171515;
-    /* opacity: 70%; */
-    /* transition: all 0.5s ease-out;     */
+    opacity: 70%;
+    transition: all 0.5s ease-out;    
 }
 .network-item-link{
     margin: 7px;
+    margin-left: 15px;
     color:  #0e76a8;
-    /* opacity: 70%; */
-    /* transition: all 1s ease-out; */
+    opacity: 70%;
+    transition: all 0.5s ease-out;
 }
-/* .network-item-git:hover{
-  display: inline-block;
-    margin-right: 35px;
-    color:  #dbdbdb;
+.network-item-git:hover{
+
      transform:scale(2,2); 
-    transition: all 1s ease-in;
-}  */
-/* .network-item-link:hover{
-  display: inline-block;
-    margin-left: 35px;
-    color:  #dbdbdb;
+    transition: all 0.5s ease-in;
+} 
+.network-item-link:hover{
+
      transform:scale(2,2); 
-    transition: all 1s ease-in;
-} */
+    transition: all 0.5s ease-in;
+}
 
 </style>
