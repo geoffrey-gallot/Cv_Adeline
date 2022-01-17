@@ -109,17 +109,17 @@ h2{
 }
 .network-group{
     list-style: none;
+    display: flex;
+    flex-direction: row;
     margin-top: 20px;
 }
 .network-item-git{
-    display: inline-block;
     margin: 7px;
     color: #171515;
     /* opacity: 70%; */
     /* transition: all 0.5s ease-out;     */
 }
 .network-item-link{
-   display: inline-block;
     margin: 7px;
     color:  #0e76a8;
     /* opacity: 70%; */
