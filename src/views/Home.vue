@@ -117,14 +117,12 @@ h2{
     margin: 7px;
     margin-right: 15px;
     color: #171515;
-    opacity: 70%;
     transition: all 0.5s ease-out;    
 }
 .network-item-link{
     margin: 7px;
     margin-left: 15px;
     color:  #0e76a8;
-    opacity: 70%;
     transition: all 0.5s ease-out;
 }
 .network-item-git:hover{
